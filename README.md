@@ -7,7 +7,7 @@ to get to 0HP loses.
 
 ## Built With
 * HTML
-*Javascript
+* Javascript
 
 
 ## Website
