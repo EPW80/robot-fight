@@ -18,7 +18,7 @@ https://epw80.github.io/robot-fight/
 
 ## Mock-up
 
-![Robot-Fight: Erik Williams](/assets/js/robotfight.png)
+![Robot-Fight: Erik Williams](/assets/js/robotfight1.png)
 ![Robot-Fight: Erik Williams](/assets/js/robotfight2.png)
 
 ## Challenges 
